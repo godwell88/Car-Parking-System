@@ -70,16 +70,12 @@ gcc parking.c -o parking
 * Owner name cannot have spaces
 * Basic error handling
 
----
-
-## 🚀 What I learned
+🚀 What I learned
 
 * How to use **structures in C**
 * How to work with **arrays**
 * How to build a **menu-driven program**
 * How to manage data using functions
-
-👨‍💻 Author
 
 
 
